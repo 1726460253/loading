@@ -1,0 +1,14 @@
+<!--
+	
+	 	可能点击这里才能看到下面的详情
+		注释看这里：http://www.w3school.com.cn/tags/tag_comment.asp
+		这次你们要做的是把上一个网页（表格页）加上各种配色，需要用到css，首先新建一个文件，命名为style.css（操作方法同新建html）然后引入该文件（使用相对路径 添加看title前的link标签
+
+		学习一下什么是class, id 要将表格中的其中一个文字通过外联样式表，就是那个style.css里写代码，来实现改变它的颜色啦~~~（比如你的名字变成红名），本文件中有内联样式表的实例，请自取。其他随意DIY。
+
+		请灵活利用谷歌哟~
+
+		第一个交可以get三分哟~
+
+		CSS基础语法：http://www.w3school.com.cn/css/css_syntax.asp
+	-->

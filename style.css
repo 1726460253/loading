@@ -1,0 +1,6 @@
+ body{background-color:Aquamarine}
+ h1 {background-color:DarkCyan; font-size: 30px;}
+ h1 {text-align:center}
+ table, th, td{border: 1px solid green;}
+ table{width:40%;}
+ th{height:50px;}
